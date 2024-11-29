@@ -21,7 +21,7 @@ To run the simulation, execute the following Python script:
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
-
+```
 
 ## Results
 The simulation visualizes the dynamics of GSC differentiation over time, showing how the populations of GSCs, cystoblasts, nurse cells, and oocytes change. The results can provide insights into the regulatory mechanisms governing stem cell behavior and differentiation.
