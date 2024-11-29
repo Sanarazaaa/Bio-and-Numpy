@@ -3,6 +3,8 @@
 ## Overview
 This project simulates the differentiation process of Drosophila melanogaster germline stem cells (GSCs) into cystoblasts, nurse cells, and oocytes. The simulation incorporates key biological factors such as chromatin state, transposable element activity, and metabolic changes, providing insights into the dynamics of stem cell differentiation.
 
+![image](https://github.com/user-attachments/assets/3c937cfe-1a48-4656-9aba-c41a80939f82)
+
 ## Key Features
 - Simulates the differentiation of GSCs over a defined number of time steps.
 - Models the effects of chromatin opening, transposable element activity, and metabolic reprogramming on differentiation rates.
